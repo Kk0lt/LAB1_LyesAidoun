@@ -1,0 +1,4 @@
+repository "LAB1_LyesAidoun@LaDaronneAZak@cloud"
+  path "/"
+    br "/main"
+    co "/main"
